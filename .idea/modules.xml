@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Labs/Ex02_Objects/Ex02_Objects.iml" filepath="$PROJECT_DIR$/Labs/Ex02_Objects/Ex02_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/GreetFriend/GreetFriend.iml" filepath="$PROJECT_DIR$/Labs/GreetFriend/GreetFriend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/HelloWord/HelloWord.iml" filepath="$PROJECT_DIR$/Labs/HelloWord/HelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-java.iml" filepath="$PROJECT_DIR$/.idea/git-java.iml" />
+    </modules>
+  </component>
+</project>
